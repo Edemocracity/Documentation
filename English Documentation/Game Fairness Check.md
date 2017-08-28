@@ -1,57 +1,58 @@
 # Game Fairness Check
 
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29790352-230912f8-8c6c-11e7-8f38-ee19836f843a.gif" width="1200">
+
 The easies way to check the game fairness is to request hash list from Blind Croupier server. Please note that all the information is requested from Ethereum blockchain.
 
 Let us create a link: 
 
-`http://blind-croupier.herokuapp.com/api/v1/transactions?address=**ADDRESS**&gameId=**GAMEID**`.
+`https://mvp.blindcroupier.io/api/v1/transactions?address=**ADDRESS**&gameId=**GAMEID**`
 
-You need to put your Ethereum wallet address instead of `**ADDRESS**` and the actual id of the game you played instead of `**GAMEID**`.
+You need to put your Ethereum wallet address instead of `**ADDRESS**` and the actual id of the game you played instead of `**GAMEID**`.  ``https://mvp.blindcroupier.io/api/v1/transactions?address=0x8D3B8a80D85Dd5877Dac75D4cc70d8CfAB56f10D&gameId=93``
 
 After you open the link, the server responds with the transaction list of the game: bet, seeds, initial hand, replacement order and the final hand:
 
-```json
-{
+
+```{
     "BetSubmitted": {
-        "txHash": "0x31a7368260c0a2f8ddad9afecea9ebac1bc97a4274c695fe3ee03b3be9be93a2",
+        "txHash": "0x36ded355dd1fea92de72adc627900d1fcc6597d61556b6ca91b929cc3ad7700f",
         "bet": 1,
         "level": 1,
-        "betPayment": "0.1 eth (1 chips)"
+        "betPayment": "0.001 eth (1 chips)"
     },
     "CroupierSeedSubmitted: 0": {
-        "txHash": "0x0297d8b91e3cea22a3e862e5a146949840e40298c5971cd116fa104bc53352bd",
-        "seed": "62504461"
+        "txHash": "0x71288219fa03634ae430585ae15187dffb33cd64c08f4d28133f3cd56c84b27f",
+        "seed": "354157056"
     },
     "CroupierSeedSubmitted: 1": {
-        "txHash": "0x4ebae8c3581ed06d6e1e9aa483a363070a9a0c3dd84d77d5ce20c3954f63fc17",
-        "seed": "1600494777"
+        "txHash": "0x48182961725511449d2d0d18a25070aedf26a35d811464fe62ea9ce2d5940890",
+        "seed": "3391019893"
     },
     "PlayerSeedSubmitted: 0": {
-        "txHash": "0xe9c4d33b97d3cbaf8ce60a60bbf9f543badfeb43bf2626dd1bf038dcb99ebafd",
-        "seed": "393532593"
+        "txHash": "0x947571c451780e90351a1227124157aacdd137605f869b50655f4b8762cf50fb",
+        "seed": "461411042"
     },
     "PlayerSeedSubmitted: 1": {
-        "txHash": "0x551a2fb28fca743035ffd3eacdec9bb0917b24b74baa2462e35425aef0b7b028",
-        "seed": "1301748256"
+        "txHash": "0x5baecfd309f4e8d331e8c688656708ea781dc077a825aa69ecdb7511a23d61b4",
+        "seed": "579925600"
     },
-    "InitialHand": "5♢, 7♢, 9♧, 10♧, 7♡",
+    "InitialHand": "3♧, 10♤, 8♡, K♢, 4♢",
     "ReplacementOrderSubmitted": {
-        "txHash": "0xa72ded162330c6d60b5de4728e7d216f1b6ae609a04b3854e6d6b9c45bd54e11",
+        "txHash": "0xb2c08afba7417cb797a0699a08087fec9997c71b9e41bfe86d84366daa6dc983",
         "replacementOrder": [
             "1",
+            "1",
+            "1",
             "0",
-            "1",
-            "1",
-            "0"
+            "1"
         ]
     },
     "GameFinishedEvent": {
-        "txHash": "0x97de8fd8a8af1bd67668cdf49cd89adf74402d1f095fa24a4b9b374b4edf40f2",
-        "winCoef": 3,
-        "winPayment": "0.3 eth (3 chips)"
+        "txHash": "0xd11fe761a2f8c4c1573955b882335ae9e7e29d55fcf128949e2be7a0004495a3",
+        "winCoef": 0,
+        "winPayment": "0 eth (0 chips)"
     },
-    "FinalHand": "3♡, 7♢, J♧, 7♤, 7♡"
-}
+    "FinalHand": "2♧, 9♡, 7♤, K♢, 6♧"
 ```
 
 As you can see, it's really easy to retrieve the game from blockchain and check its fairness. We are working on the improved fairness check UI.
@@ -75,13 +76,14 @@ To verify bet information, we will need to use the corresponding `txHash` for th
 `Input Data` contains function parameters:
 
 ```
+MethodID: 0x021525af
 [0]:000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
-[1]:0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
+[1]:0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
 [2]:0000000000000000000000000000000000000000000000000000000000000001
 [3]:0000000000000000000000000000000000000000000000000000000000000001
 [4]:000000000000000000000000000000000000000000000000000000000000001c
-[5]:e6c459c79f9ee1c2f1c69858e92cdef31b0287d036b4b37d48059c4410882551
-[6]:6b0d4e80a245a78dc2c044a6ad9d6a38c16e338910c621490784e83df74e5334
+[5]:f73a2163cf4cca8b53b32a1ab675c466b6331e9bece4976cccb8faf0b1ae849d
+[6]:1a6e75428750cfe298d42509ea42af7cab09083561912aaeef93c05450d3af2f
 ```
 
 Parameter `[0]` is the Croupier's address:
@@ -94,8 +96,8 @@ Parameter `[0]` is the Croupier's address:
 Parameter `[1]` is the Player's address:
 
 ```
-0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745 == 
-                      0x1d6acdeb2eada5feca9fe4c78870d0c06f5f1745
+0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d == 
+                      0x8d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
 ```
 
 Parameter `[2]` is the bet made:
@@ -114,41 +116,42 @@ And parameter `[3]` is the level:
 
 Like we did in the Step One, use the corresponding `txHash` for the method `submitCrouiperSeedAsSignature` (or `CroupierSeedSubmitted` event).
 
-`https://kovan.etherscan.io/tx/0x0297d8b91e3cea22a3e862e5a146949840e40298c5971cd116fa104bc53352bd`
+`https://kovan.etherscan.io/tx/0x71288219fa03634ae430585ae15187dffb33cd64c08f4d28133f3cd56c84b27f`
 
 ``InputData``:
 
 ```
+MethodID: 0xf21950bd
 [0]:000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
-[1]:0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
+[1]:0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
 [2]:000000000000000000000000000000000000000000000000000000000000001b
-[3]:007169e25b14d495a0a998522d8b02f1aa0121cfd3efa48fe04244d603b9be0d
-[4]:6059b49f79bb31333ae34d9456d4e9d16a47bfc44ce803d49ebdf82deb2f64a8
+[3]:f5dd9d20b5cadfbe488cefdb6f89daeb51b575e9a211d24ab8ea8ef8151c0200
+[4]:30db06242f67e7e364002c45b73f382cad42c4bf658578d786b5ad05b8fc43af
 [5]:0000000000000000000000000000000000000000000000000000000000000000
 ```
 
 We are interested in parameter `[3]` (`r` signature component): 
 
 ```
-r = 007169e25b14d495a0a998522d8b02f1aa0121cfd3efa48fe04244d603b9be0d
+r = f5dd9d20b5cadfbe488cefdb6f89daeb51b575e9a211d24ab8ea8ef8151c0200
 ```
 
 To calculate the random seed we need to take last **4 bytes** of this number (i.e. **last 8 hex digits**):
 
 ```
-seed = 007169e25b14d495a0a998522d8b02f1aa0121cfd3efa48fe04244d603b9be0d ^ ffffff == 03b9be0d
+seed = f5dd9d20b5cadfbe488cefdb6f89daeb51b575e9a211d24ab8ea8ef8151c0200 ^ ffffff == 151c0200
 ```
 
 Converting the number to the decimal representation (e.g. [here](http://www.binaryhexconverter.com/hex-to-decimal-converter))
 
 ```
-03b9be0d = 62504461
+151c0200 = 354157056
 ```
 
 which equals `seed` field in the server provided information
 
 ```
-"seed": "62504461"
+"seed": "354157056"
 ```
 
 Other seeds (Croupier 1, Player 0, Player 1) are calculated the same way.
@@ -159,22 +162,23 @@ Other seeds (Croupier 1, Player 0, Player 1) are calculated the same way.
 Method name: `submitReplacementOrder` (event name: `ReplacementOrderSubmitted`).
 
 Transaction: 
-https://kovan.etherscan.io/tx/0xa72ded162330c6d60b5de4728e7d216f1b6ae609a04b3854e6d6b9c45bd54e11
+https://kovan.etherscan.io/tx/0xb2c08afba7417cb797a0699a08087fec9997c71b9e41bfe86d84366daa6dc983
 
 
 ``InputData``:
 
 ```
+MethodID: 0xd41abbdc
 [0]:000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
-[1]:0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
+[1]:0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
 [2]:0000000000000000000000000000000000000000000000000000000000000001
-[3]:0000000000000000000000000000000000000000000000000000000000000000
+[3]:0000000000000000000000000000000000000000000000000000000000000001
 [4]:0000000000000000000000000000000000000000000000000000000000000001
-[5]:0000000000000000000000000000000000000000000000000000000000000001
-[6]:0000000000000000000000000000000000000000000000000000000000000000
+[5]:0000000000000000000000000000000000000000000000000000000000000000
+[6]:0000000000000000000000000000000000000000000000000000000000000001
 [7]:000000000000000000000000000000000000000000000000000000000000001b
-[8]:94f391c2a72a80d29c23907a6df4a9505f578acaed8f6c2d1f62e225b6dbcd55
-[9]:0781d82e3e5063426d7413285d52941cea761e6da3f649d00391c6af5676a114
+[8]:1abe8b7df52caad86b36756b862d6bd6bb32ab076d3646b728a23e20280bada8
+[9]:6cdcdac6165da4116609551598ab90e121c832dd091d1adc16b4e8031b572d0b
 ```
 
 Parameters `[0]` and `[1]` are the Croupier's and Player's addresses.
@@ -185,19 +189,19 @@ Parameters `2` - `6` is the replacement order (5 cards from left to right). `0` 
 
 Let's open the last transaction logs  (`GameFinishedEvent`): 
 
-https://kovan.etherscan.io/tx/0x97de8fd8a8af1bd67668cdf49cd89adf74402d1f095fa24a4b9b374b4edf40f2#eventlog
+https://kovan.etherscan.io/tx/0xd11fe761a2f8c4c1573955b882335ae9e7e29d55fcf128949e2be7a0004495a3#eventlog
 
 There are two events in the logs:
 
 ```
 [0] 000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
-[1] 0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
-[2] 0000000000000000000000000000000000000000000000000429d069189e0000
+[1] 0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
+[2]  0000000000000000000000000000000000000000000000000000000000000000
  		
-[0] 0x2e26679f09e74f31e637088f9820b9f39ae1da7796c9ab18fb06227464eeff59
-[1] 0x000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
-[2] 0x0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
-[3] 0x0000000000000000000000000000000000000000000000000000000000000003
+		[0] 0x2e26679f09e74f31e637088f9820b9f39ae1da7796c9ab18fb06227464eeff59
+		[1] 0x000000000000000000000000f0005d5b6bf7f42a1e92d0cbbbc75f9773d4158d
+		[2] 0x0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
+		[3] 0x000000000000000000000000000000000000000000000000000000000000005d
  ```
 
 The first one is the MoneyMoved event. Fields from top to bottom:
@@ -209,15 +213,15 @@ Croupier's address:
 
 Player's address: 
 ```
-[1] 0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
+[1] 0000000000000000000000008d3b8a80d85dd5877dac75d4cc70d8cfab56f10d
 ```
 
 Wei paid (using the same [hex to decimal converter](http://www.binaryhexconverter.com/hex-to-decimal-converter)):
 
 ```
-[2] 0000000000000000000000000000000000000000000000000429d069189e0000 = 
-300000000000000000 Wei = 
-0.3 ETH
+[2]  0000000000000000000000000000000000000000000000000000000000000000
+0 Wei = 
+0.0 ETH
 ```
 
 ## Checking The Hand Was Generated Properly 
@@ -227,10 +231,10 @@ Can we check Croupier and the Bank generated the Hand right?
 We have 4 random seeds:
 
 ```
-62504461 (Croupier 0)
-393532593 (Player 0)
-1600494777 (Croupier 1)
-1301748256 (Player 1)
+354157056 (Крупье 0)
+461411042 (Игрок 0)
+3391019893 (Крупье 1)
+579925600 (Игрок 1)
 ```
 
 First, let's mix seeds in pairs (Player 0 + Croupier 0, Player 1 + Crouiper 1, using XOR, (^). We can use for example: http://xor.pw/ (use Base 10 for input **and** for ouput). 
@@ -238,8 +242,8 @@ First, let's mix seeds in pairs (Player 0 + Croupier 0, Player 1 + Crouiper 1, u
 The result: 
 
 ```
-15316196254
-83182558959
+245141730
+3901631765
 ```
 
 The first seed is used for initial deck shuffling. After that 5 cards are drawn. The rest of the deck is shuffled again using the second seed and the amount of cards required for the replacement is drawn.
@@ -253,7 +257,7 @@ generateHand([seed0, seed1], replacementOrder)
 The result is published in the last line of the initial server reply:
 
 ```
-"FinalHand": "3♡, 7♢, J♧, 7♤, 7♡"
+"FinalHand": "2♧, 9♡, 7♤, K♢, 6♧"
 ```
 
 We are working on the tool which can independently do the calculations and prove that everything is calculated correctly.
