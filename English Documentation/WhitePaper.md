@@ -12,8 +12,6 @@
 
 * [**WebSite**](https://blindcroupier.io/index-ru.html)
 
-* [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md#blindcroupierio-white-paper)
-
 * [**Token WIN White Paper**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/Token%20WIN%20White%20Paper.md#content)
 
 * [**Game Fairness Check**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/Game%20Fairness%20Check.md#game-fairness-check)
