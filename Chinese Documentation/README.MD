@@ -1,7 +1,7 @@
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29787597-18d2a772-8c62-11e7-92df-e40b94050b0a.jpg" width="1350">](https://mvp.blindcroupier.io/)
 `如果你没有 KOVAN 测试网的 ETH 代币，请在TELEGRAM上联系管理员,中国区请联系微信索取测试网代币.`
 
-# Ресурсы Blind Croupier
+# 资源 Blind Croupier
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Channel**](https://t.me/blindcroupier)
 
