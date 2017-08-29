@@ -42,9 +42,9 @@
 
 **All unsold tokens (if any) are destroyed at the end of every period.**
 
-**5,000,000WIN:** Offered for Token Distribution Period 0. **Price for period:** 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
+**5,000,000WIN:** Offered for Token Distribution Period 0. **Price for period:** 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts .*All the unsold tokens are destroyed at the end of the period.*
 
-**15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
+**15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 3.10.2017; 14:00UTC **  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
  **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In new period, the price is increased by 0.5% from the price in the previous period. **If** the previous period ended early, in the new period the price increases by 1%. **If** 20% or more of tokens were destroyed in the period, then the price would be maintained at the same level.
  
