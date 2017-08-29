@@ -11,7 +11,7 @@
 
 * [**网站**](https://blindcroupier.io/index-ru.html)
 
-* [**白皮书**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md#blindcroupierio-white-paper)
+* [**白皮书**](https://github.com/BlindCroupier/Documentation/blob/master/Chinese%20Documentation/%E7%99%BD%E7%9A%AE%E4%B9%A6.md#blindcroupierio-%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 * [**代币WIN白皮书**](https://github.com/BlindCroupier/Documentation/blob/master/Chinese%20Documentation/WIN%E4%BB%A3%E5%B8%81%E5%88%86%E9%85%8D%E6%96%B9%E6%A1%88.md#win%E4%BB%A3%E5%B8%81%E5%88%86%E9%85%8D%E6%96%B9%E6%A1%88)
 
