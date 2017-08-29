@@ -8,7 +8,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29828409-377f8c00-8d0f-11e7-8e34-03aa47ba955a.jpg" width="25"> **微信:** QQ群1  213614620   QQ群2 211524043
 
-<img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**微信:** blcico
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**微信:** BLCICO
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">[**Twitter:**](https://twitter.com/BlindCroupier)
 
