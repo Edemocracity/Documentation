@@ -2,6 +2,7 @@
 `如果你没有 KOVAN 测试网的 ETH 代币，请在TELEGRAM上联系管理员,中国区请联系微信索取测试网代币.`
 
 # 资源 Blind Croupier
+[**English Documentation**](https://github.com/BlindCroupier/Documentation/tree/master/English%20Documentation) | [**中文文件**](https://github.com/BlindCroupier/Documentation/tree/master/Chinese%20Documentation)| [**Русская Документация**](https://github.com/BlindCroupier/Documentation/tree/master/Russian%20Documentation)
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Channel**](https://t.me/blindcroupier)
 
@@ -24,8 +25,8 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
-#### Best Regards,
+#### 诚挚的问候,
 
-#### Team Blind Croupier
+#### BLC 团队
 
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">](https://t.me/rublindcroupier) [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">](https://twitter.com/BlindCroupier)
