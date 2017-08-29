@@ -1,4 +1,4 @@
-[<img align="left" src="https://user-images.githubusercontent.com/31250469/29787597-18d2a772-8c62-11e7-92df-e40b94050b0a.jpg" width="1350">](https://mvp.blindcroupier.io/)
+[<img align="left" src="https://user-images.githubusercontent.com/31250469/29827280-1bb9ef68-8d0c-11e7-915f-94d9e1b54f15.jpg" width="1350">](https://mvp.blindcroupier.io/)
 `如果你没有 KOVAN 测试网的 ETH 代币，请在TELEGRAM上联系管理员,中国区请联系微信索取测试网代币.`
 
 # 资源 Blind Croupier
