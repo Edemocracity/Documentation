@@ -1,5 +1,5 @@
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29787597-18d2a772-8c62-11e7-92df-e40b94050b0a.jpg" width="1350">](https://mvp.blindcroupier.io/)
-`ETH FOR KOVAN TESTNET - CAN BE ASKED IN OUR TELEGRAM CHANNEL`
+`ETH FOR KOVAN TESTNET - CAN BE ASKED IN OUR TELEGRAM/QQ/WeChat CHANNEL`
 
 # Resources Blind Croupier
 [**English Documentation**](https://github.com/BlindCroupier/Documentation/tree/master/English%20Documentation) | [**中文文件**](https://github.com/BlindCroupier/Documentation/tree/master/Chinese%20Documentation)| [**Русская Документация**](https://github.com/BlindCroupier/Documentation/tree/master/Russian%20Documentation)
