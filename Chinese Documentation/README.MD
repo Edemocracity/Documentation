@@ -6,7 +6,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Channel**](https://t.me/blindcroupier)
 
-<img align="left" src="https://user-images.githubusercontent.com/31250469/29827649-1a4cc24e-8d0d-11e7-80f8-2888dfd449ba.jpg
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29827451-a30907ba-8d0c-11e7-83b6-06a44a0de5d9.jpg
 " width="25">**微信:** QQ群1  213614620   QQ群2 211524043
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**微信:** blcico
