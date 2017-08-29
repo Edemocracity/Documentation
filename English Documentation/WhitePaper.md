@@ -352,6 +352,8 @@ Blind Croupier software was developed using the trusted cryptographical methods 
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
-#### Best regards,
-#### Blind Croupier Team
+#### Best Regards,
 
+#### Team Blind Croupier
+
+[<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">](https://t.me/blindcroupier) [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">](https://twitter.com/BlindCroupier)
