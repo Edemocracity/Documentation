@@ -13,7 +13,7 @@
 
 * [**WebSite Русский**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
-* [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md#blindcroupierio-white-paper)
+* [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/White%20Paper.md#blindcroupierio-white-paper)
 
 * [**Устройство Алгоритма**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20.md#%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-blind-croupier)
 
