@@ -69,3 +69,15 @@
 
 ### 第四阶段：2018年春季-夏季：先进的平台和Blind大奖奖金
 开发与测试：Blind大奖奖金、先进的平台、老虎机设置、移动设备产品的优化。测试完毕后，我们将在所有主要的在线博彩活动中展示准备的产品。营销活动将要开始，产品将要在主要市场推出。
+
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
+
+#### 诚挚的问候,
+
+#### BLC 团队
+
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Channel**](https://t.me/blindcroupier)
+
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29828409-377f8c00-8d0f-11e7-8e34-03aa47ba955a.jpg" width="25"> **微信:** QQ群1  213614620   QQ群2 211524043
+
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**微信:** BLCICO
