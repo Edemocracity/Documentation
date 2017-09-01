@@ -1,5 +1,5 @@
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29750942-349ba18a-8b7b-11e7-967e-54558233c762.jpg" width="1350">](https://mvp.blindcroupier.io/)
-`YOU CAN ASK FOR ETH IN OUR TELEGRAM CHANNEL`
+`ETH FOR KOVAN TESTNET - ASK IN OUR TELEGRAM CHANNEL`
 
 # Blind Croupier Resources
 
