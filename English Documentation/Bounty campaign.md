@@ -69,18 +69,18 @@ Requirements for candidates:
 **Participants who will prove to be the worst and irresponsible will be excluded from the subsequent bounty campaign distribution**
 
 Available languages/1 share for each participant:
-+ English (3 участника)
-+ Chinese (2 участника)
-+ Russian (2 участника)
-+ Korean (1 участник)
-+ Japanese (1 участник)
-+ Indonesian (1 участник)
-+ Spanish (1 участник)
-+ Turkish (1 участник)
-+ Italian (1 участник)
-+ German (1 участник)
-+ Portuguese (1 участник)
-+ French (1 участник)
++ English (3 participants)
++ Chinese (2 participants)
++ Russian (2 participants)
++ Korean (1 participant)
++ Japanese (1 participant)
++ Indonesian (1 participant)
++ Spanish (1 participant)
++ Turkish (1 participant)
++ Italian (1 participant)
++ German (1 participant)
++ Portuguese (1 participant)
++ French (1 participant)
 **Maximum of 16 shares/participants, more shares can only be added through redistribution from reserve bounty fund** 
 
 
