@@ -1,127 +1,125 @@
-# UNDER CONSTRUCTION
-
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29750942-349ba18a-8b7b-11e7-967e-54558233c762.jpg" width="1350">](https://mvp.blindcroupier.io/)
-`ETH ДЛЯ KOVAN TESTNET - МОЖНО ПОПРОСИТЬ В НАШЕМ TELEGRAM КАНАЛЕ`
+`YOU CAN ASK FOR ETH IN OUR TELEGRAM CHANNEL`
 
-# Ресурсы Blind Croupier
+# Blind Croupier Resources
 
 [**English Documentation**](https://github.com/BlindCroupier/Documentation/tree/master/English%20Documentation) | [**中文文件**](https://github.com/BlindCroupier/Documentation/tree/master/Chinese%20Documentation)| [**Русская Документация**](https://github.com/BlindCroupier/Documentation/tree/master/Russian%20Documentation)
 
-<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**Telegram Русский Канал**](https://blindcroupier.io/index-ru.html)
+<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">[**English Telegram Channel**](https://blindcroupier.io/index-ru.html)
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752596-b779b930-8b93-11e7-9e3b-7d3e1ec9ae28.jpg" width="25">**WeChat:** blcico
 
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">[**Twitter:**](https://twitter.com/BlindCroupier)
 
-* [**WebSite Русский**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
+* [**WebSite English**](https://github.com/BlindCroupier/Documentation/blob/master/English%20Documentation/WhitePaper.md)
 
 * [**White Paper English**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/White%20Paper.md#blindcroupierio-white-paper)
 
-* [**Устройство Алгоритма**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20.md#%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-blind-croupier)
+* [**Algorithm Structure**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20.md#%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-blind-croupier)
 
-* [**Распределение Токенов WIN**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%20WIN%20White%20Paper.md#%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2-win)
+* [**WIN Token Distribution**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%20WIN%20White%20Paper.md#%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%D0%BE%D0%B2-win)
 
-* [**Проверка Честности Партии**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B8.md#%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B8)
+* [**Game Fairness check**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B8.md#%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B8)
 
-* [**Смарт Контракт Распределения Токенов**](https://etherscan.io/address/0xaa3e80a42e7bac1072bee7ee5ac72123969b8400)
+* [**Smart Token Distribution Contract**](https://etherscan.io/address/0xaa3e80a42e7bac1072bee7ee5ac72123969b8400)
 
-* [**Дорожная Карта**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%20WIN%20White%20Paper.md#%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F-%D0%9A%D0%B0%D1%80%D1%82%D0%B0)
+* [**Road Map**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%20WIN%20White%20Paper.md#%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F-%D0%9A%D0%B0%D1%80%D1%82%D0%B0)
 
-* [**Баунти**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%91%D0%B0%D1%83%D0%BD%D1%82%D0%B8%20%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.md#blind-croupier-bounty-company)
+* [**Bounty**](https://github.com/BlindCroupier/Documentation/blob/master/Russian%20Documentation/%D0%91%D0%B0%D1%83%D0%BD%D1%82%D0%B8%20%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.md#blind-croupier-bounty-company)
 
 
 
 # Blind Croupier Bounty company!
-Дорогие участники баунти кампании! вы можете стать частью проекта Blind Croupier и мы рады приветствовать вас в наших рядах. 
-Общая сумма доступная для баунти 5,000,000WIN(1%).
+Dear participants of bounty campaign! You can become a part of Bling Croupier project and we are happy to welcome you to our ranks. 
+Total amount available for bounty 5,000,000WIN(1%).
 
-# Порядок распределения баунти
-Награда начисляются пропорционально количеству проведенных периодов в течении каждых 7 дней. Если вы еще не знакомы с порядком распределения токенов WIN то пожалуйста перейдите на страницу распределения токенов. Чем больше периодов будет завершено в течении этих 7 дней, тем больше  токенов будет доступно для распределения. Само распределение (отправка токенов) происходит в течении следующей недели. Количество WIN токенов распределяемых за каждый завершенный период указанно в ниже приведенной таблице:
-> ВНИМАНИЕ! Награда за Period 0 будет начислена в конце периода, без привязки к 7 дневному интервалу.
+# Bounty distribution order
+The reward is accrued in proportion to the number of periods performed during each of 7 days. If you are not yet familiar with the distribution order of WIN tokens then please go to the token distribution page. The more periods that will be completed within these 7 days, the more tokens will be available for distribution. Distribution itself (sending tokens) occurs within the next week. Ammount of WIN tokens distributed for each completed period is listed in the table below:
+> ATTENTION! Reward for Period 0 will be accrued  at the and of the period, without reference to the  7 day interval.
 
-| Период  |  Количество токенов доступных для распределения за каждый завершенный период |
+| Period  |  Ammount of tokens awailable for distribution for each completed period |
 |---|---|
-| Period 0  | 202,000WIN/Период |
-| Period 1  | 278,000WIN/Период |
-| Period 2 - 25  | 25,000WIN/Период  |  
-| Period 26 - 125  |  15,0000WIN/Период |
-| Period 126 - 367 |  10,000WIN/Период |
+| Period 0  | 202,000WIN/Period |
+| Period 1  | 278,000WIN/Period |
+| Period 2 - 25  | 25,000WIN/Period  |  
+| Period 26 - 125  |  15,0000WIN/Period |
+| Period 126 - 367 |  10,000WIN/Period |
 
-``Если в совокупности в завершенных в 7 дневный интервал периодах, выкуплено меньше 60% WIN, мы оставляем за собой право внести холд до 40 дней на токены отправленные в качестве награды, это необходимая мера для защиты инвесторов и стабилизации курса WIN на рынке.``
+``If, in the aggregate, within a 7 days interwal worth of periods less then 60% of WIN is redeemed we reserve the right to put a hold for up to 40 days on tokens sent as a reward as a necessary measure to protect investors and stabilize the WIN exchange rate.``
 
-> **Пример 1:** Вы приняли участие в баунти кампании для переводчиков/комьюнити менеджеров за что вам полагается 1 доля, вознаграждение начисляется пропорционально количеству завершенных периодов в течении 7 дней. Предположим, что за 7 дней были завершены Period 1-10, соответственно для распределения доступно 503,000WIN, из них для комьюнити менеджеров полагается 25% или 125,750WIN. Всего было 10 участников или 10 долей соответственно вы получите 10% или 12,575WIN.
+> **Example 1:** You took a part in a bounty campaign for translators/community managers for wich you are entitled 1 share. Reward is accrued in proportion to the number of completed periods within 7 days. Lets assume that period 1-10 was completed in 7 days, so  503000 WIN is awailable for distribution, of wich 25% or 125750 WIN are for community managers. There were 10 participants or 10 shares, respectively you will recieve 10%, or 12575.
 
-> **Пример 2:** Вы приняли участие в Твитер баунти кампании, на ваш аккаунт подписано 2000 человек, за каждый ретивит вам полагается 150 долей, вознаграждение начисляется пропорционально колличеству завершенных периодов в течении 7 дней. Предположим, что за 7 дней были завершены Period 1-10 соответственно для распределения доступно 503,000WIN, из них для твитер кампании полагается 15% или 75,450WIN. Вы сделали 2 ретвира в течении 5 дней, за что получаете 300 долей из 3,000 долей(10%) или 7,545WIN. 
+> **Example 2:** You took part in Twitter Bounty campaign, 2000 people are subscribed to your account and for each retweet you are entitled to 150 shares, the reward is accrued in proportion to the number of completed periods within 7 days. Lets assume that period 1-10 was completed in 7 days, so 503000 WIN is awailable for distribution, of wich 15% or 75450 WIN are for twitter campaign. You made 2 retweets in 5 days, for wich you get 300 shares out of 3000 shares (10%) or 7545 WIN. 
 
-## 1. Местный Комьюнити Менеджер/Переводчик 25% (1,250,000WIN)
-Требования предъявленные к кандидатам:
-+ Активное участие в деятельности проекта, понимание используемых Blind Croupier технологий, понимание видиния и миссии компании;
-+ Управление репутацией - сбор обратной связи от целевой аудитории и реакция на комментарии, предупреждение и блокировка пользователей нарушающих правила сообщества;
-+ Поддержка участников распределения токенов WIN на родном языке, направлять обсуждение в необходимом русле, повышение активности пользователей в сообществах;
-+ Участие в расширении сообщества;
-+ Перевод White Paper, сайта, и анонсов компании (если это требуется); 
-+ Ответственный подход, соблюдение среднего онлайна 7 часов в день;
-+ Умение работать в команде;
-+ Резервируемый язык должен быть родным;
-+ Уважать всех участников сообщества и общаться с ними на дружелюбном языке, даже если они не проявляют себя таким же образом. За инциденты не сдержанности и оскорбление участников распределения, последует исключение из баунти кампании; 
-+ Для участия в кампании обязательно укажите проекты в которых вы участвовали ранее, если таковых нет подтвердите свою компетентность иным возможным для вас способом, нами будут рассмотрены все кандидаты.
+## 1. Local Community Manager/Translator 25% (1,250,000WIN)
+Requirements for candidates:
++ Active participation in project activities, understanding of technologies used by Blind Croupier, understanding of  the company's vision and mission;
++ Reputation management - collecting feedback from target  audience and responding to comments, warning and blocking users who violate community rules;
++ Support for WIN token distribution participants in their native language, directing the discussions in the proper way, increasing the activity of users in communities;
++ Participation in community growth;
++ Translation of White Paper, web site and company announcements (if required); 
++ Responsible approach, adherence to 7 hours a day average online time;
++ Team working skills;
++ The reserved language has to be native;
++ Respect for all community members and friendly communications with them, even if they do not manifest themself in the same way. For incidents of incontinence and insult of other members of distribution there will be an exclusion from the bounty campaign; 
++ To participate in the campaign be sure to indicate all projects in wich you participated earlier, if there are no such projects prove your competence in any other way possible, we will consider all candidates.
 
-**Участники которые проявят себя наилучшим образом, могут претендовать на постоянную работу в компании ИЛИ станут партнером Blind Croupier.**
+**Best participants will  be able to apply for a permanent job in the company OR become a Blind Croupier partner**
 
-**Участники которые проявят себя наихудшим, безответственным образом, будут исключены из последующих распределений баунти кампании.**
+**Participants who will prove to be the worst and irresponsible will be excluded from the subsequent bounty campaign distribution**
 
-Доступные языки/1 доля на каждого участника:
-+ Английский (3 участника)
-+ Китайский (2 участника)
-+ Русский (2 участника)
-+ Корейский (1 участник)
-+ Японский (1 участник)
-+ Индонезийский (1 участник)
-+ Испанский (1 участник)
-+ Турецкий (1 участник)
-+ Итальянский (1 участник)
-+ Немецкий (1 участник)
-+ Португальский (1 участник)
-+ Французский (1 участник)
-**Максимум 16 долей/участников, если будет добавлено больше долей, то только засчет перераспределения из резервного баунти фонда.** 
+Available languages/1 share for each participant:
++ English (3 участника)
++ Chinese (2 участника)
++ Russian (2 участника)
++ Korean (1 участник)
++ Japanese (1 участник)
++ Indonesian (1 участник)
++ Spanish (1 участник)
++ Turkish (1 участник)
++ Italian (1 участник)
++ German (1 участник)
++ Portuguese (1 участник)
++ French (1 участник)
+**Maximum of 16 shares/participants, more shares can only be added through redistribution from reserve bounty fund** 
 
 
-## 2. Twitter подписка и ретвит 15% (750,000WIN)
-Для участия в кампании и получения долей: 
-* Подпишись на нашу официальную страницу в Twitter Здесь.
-* Сделай ретвит новости где указан хэштэг #CroupierICO с нашего официального твиттера, ТОЛЬКО в течении 5 дней после их публикации **и не более**, не удаляй их в течении минимум 20 дней. Каждый ретвит принесет вам следующую долю:
+## 2. Twitter subscription and retweet 15% (750,000WIN)
+To participate in campaign and claim shares: 
+* Subscribe to our Twitter page HERE
+* Retweet the news with hashtag #CroupierICO from our official twitter ONLY within 5 days of thir publication, and do not delete them for at least 20 days. Each retweet will give you the following ammount of shares:
 
-   От 30 до 99 подписчиков - 10 долей
+   30 to 99 subscribers - 10 shares
     
-    От 100 to 249 подписчиков - 25 долей
+    100 to 249 subscribers - 25 shares
     
-    От 250 to 999 подписчиков - 60 долей
+    250 to 999 subscribers - 60 shares
     
-    От 1000 to 5000 подписчиков - 150 долей
+    1000 to 5000 subscribers - 150 shares
     
-    От 5000 to 10000 подписчиков и больше - 250 долей
+    5000 subscribers and more - 250 shares
     
-Аккаунт должен иметь возраст регистрации не менее 3 месяцев.
+The account must have a registration age of at least 3 month
   
-**Внимание:** Мы учитываем ТОЛЬКО посты с маркером #CroupierICO которые написала наша команда. Если вы добавите хэштэг к любому другому посту, это не будет учитываться.
+**Attention:** We will count ONLY posts with hashtag #CroupierICO written by our team. If you add the hashtag to any other post, it will not be counted.
 
 
-# Резервный Баунти Фонд 60% (3,000,000WIN)
-Для предложенной, постепенной модели распределения токенов WIN, необходима гибкая система для рационального распределения баунти. Так как распределение токенов разбито на множество раундов, нам достаточно тяжело предсказать, какая вакансия может оказаться наиболее необходимой для проекта спустя некоторое время.
+# Reserve Bounty Fund 60% (3,000,000WIN)
+For the proposed, gradual model for WIN token distribution, a flexible system is required for the rational distribution of the bounty. Since token distribution is broken down into many rounds its quite hard for us to predict which vacancy will be the most important for the project after some time.
 
-Поэтому мы оставили резерв который будет использоваться для создания новых баунти кампаний (например подписная кампания на bitcointalk или кампании для PR-менеджеров) и дополнительного финансирования уже существующих. О всех новых кампаниях мы будем объявлять дополнительно.
+Thats why we left a reserve that will be used to create new bounty campaigns (for example subscription campaign for Bitcointalk or campaign for PR management) and additional funding for existing ones. We will announce all new campaigns.
 
-Так же этот резерв будет использован для оплаты услуг по индивидуальной поддержки проекта, например: PR-менеджеров, блогеров, владельцев youtube каналов, владельцев новостных порталов, каналов на reddit, QQ и WECHAT каналов, телеграм каналов, организаторов мероприятий, знакомство со спонсорами и советниками, помощь в тесте наших продуктов и многих других необходимых услуг. **Пожалуйста пишите свои предложения, мы открыты к диалогу и рассмотрим каждое предложение даже если вы не нашли его в списке.**
+This reserve will be used to pay for individual project support, for example: PR managers, bloggers, youtube channel owners, news portals owners, Reddit subreddits, QQ and WECHAT channels, Telegram channels, even organizers, acquaintance with sponsors and advisors, product testers and many other necessary services. **Please write your suggestions, we are open to dialog and will consider every proposition, even if it is not on the list.**
 
-Токены в качестве вознаграждения начисляются в индивидуальном порядке, и не привязаны к порядку распределения в периодах, в тоже время мы не допустим, чтобы в какой либо момент количество WIN выпущенных в качестве баунти награды, могло бы оказаться достаточным, чтобы повлечь за собой дестабилизацию всего курса токена. В случае если распределенные за услуги награды на наш взгляд смогут каким либо образом дестабилизировать курс, нами будет установлен холд на токены лица оказавшего эту услугу на соответствующий заранее оговоренный срок.
+Tokens for rewards are acrued on an individual basis and are not tied to the distribution order in periods, but at the same time we will not allow the situation when at any moment WIN token ammount distributed as a reward will be enough to destabilize token exchange rate. If in your opinion distributed rewards will be able to somehow destabilize exhange rate we will set a hold on the tokens of the person who privided this service for an agreed period of time.
 
-### Свои предложения отправляйте на: info@blindcroupier.io
+### Send your suggestions to: info@blindcroupier.io
 
-#### Спасибо За Внимание!
+#### Thank You For Attention!
 <img align="left" src="https://user-images.githubusercontent.com/31250469/29752217-87d61d60-8b8c-11e7-92fc-5ddf220c5c2b.jpg" width="1200">
 
-#### С Наилучшими Пожеланиями,
+#### Best Regards,
 
-#### Команда Blind Croupier
+#### Blind Croupier Team
 
 [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752563-2ad17fa4-8b93-11e7-9c40-64e62feb64eb.jpg" width="25">](https://t.me/rublindcroupier) [<img align="left" src="https://user-images.githubusercontent.com/31250469/29752590-9785e734-8b93-11e7-8eb3-e5de22b70f97.jpg" width="25">](https://twitter.com/BlindCroupier)
