@@ -86,7 +86,7 @@ Available languages/1 share for each participant:
 
 ## 2. Twitter subscription and retweet 15% (750,000WIN)
 To participate in campaign and claim shares: 
-* Subscribe to our Twitter page HERE
+* Subscribe to our Twitter page [Here](https://twitter.com/BlindCroupier)
 * Retweet the news with hashtag #CroupierICO from our official twitter ONLY within 5 days of thir publication, and do not delete them for at least 20 days. Each retweet will give you the following ammount of shares:
 
    30 to 99 subscribers - 10 shares
