@@ -83,6 +83,7 @@ Available languages/1 share for each participant:
 + French (1 participant)
 **Maximum of 16 shares/participants, more shares can only be added through redistribution from reserve bounty fund** 
 
+### Send your suggestions to: info@blindcroupier.io
 
 ## 2. Twitter subscription and retweet 15% (750,000WIN)
 To participate in campaign and claim shares: 
