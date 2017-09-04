@@ -103,9 +103,10 @@ The account must have a registration age of at least 3 month
   
 **Attention:** We will count ONLY posts with hashtag #CroupierICO written by our team. If you add the hashtag to any other post, it will not be counted.
 
-**How to join:**
-Follow the Official Twitter Handle: https://twitter.com/BlindCroupier
-Fill out this form: https://docs.google.com/forms/d/1tzEqd54KKstuGjLulc6qy9xz2kAeKwAilG1VSM5uxmo/viewform?edit_requested=true
+### How to join:
+#### Follow the Official Twitter Handle: https://twitter.com/BlindCroupier
+
+#### Fill out this form: https://docs.google.com/forms/d/1tzEqd54KKstuGjLulc6qy9xz2kAeKwAilG1VSM5uxmo/viewform?edit_requested=true
 
 
 # Reserve Bounty Fund 60% (3,000,000WIN)
