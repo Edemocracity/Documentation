@@ -76,7 +76,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflation processes is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
 
-We are tying the WIN token cost to the economical success of Blind Croupier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
+We are tying the WIN token cost to the economical success of Blind Croupier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13% of GGR, GGR = bets - wins).
 
 At least 15% of the royalties will be used for **step-by-step** buying back WIN tokens and their withdrawal from circulation. The better project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. If the market value is balanced - the lesser amount of WIN will be withdrawn (the higher the token price is, the less tokens we can buy back, using the funds designated).
 
