@@ -93,7 +93,7 @@ As you can see from the table, when the token price lowers, deflation speeds up 
 
 ## Liquidity
 
-Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this (as you may have already noticed from [distribution tokens](#win-token-distribution), there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
+Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this, there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
 
 ## The Privilege Auction
 
