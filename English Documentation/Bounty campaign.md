@@ -102,7 +102,7 @@ To participate in campaign and claim shares:
     
 The account must have a registration age of at least 3 month
   
-**Attention:** We will count ONLY posts with hashtag #CroupierICO written by our team. If you add the hashtag to any other post, it will not be counted.
+**Attention:** We will count ONLY posts with hashtag #BlindICO written by our team. If you add the hashtag to any other post, it will not be counted.
 
 ### How to join:
 #### Follow the Official Twitter Handle: https://twitter.com/BlindCroupier
